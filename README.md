@@ -1,5 +1,7 @@
 # Bash for Beginners
 
+[简体中文](./README_cn.md)
+
 ## Overview
 
 These Microsoft Developer YouTube series is designed to help get you up to speed on Bash.  

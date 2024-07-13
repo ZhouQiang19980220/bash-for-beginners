@@ -1,5 +1,7 @@
 # Bash for Beginners
 
+[English](./README.md)
+
 ## Overview
 
 这些 Microsoft Developer YouTube 系列视频旨在帮助您快速掌握Bash。
