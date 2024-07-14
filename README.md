@@ -1,6 +1,8 @@
 # Bash for Beginners
 
 [简体中文](./README_cn.md)
+\
+[Youtube](https://youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l&si=6R0whHbZI2V9Ww2p)
 
 ## Overview
 

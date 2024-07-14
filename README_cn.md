@@ -2,6 +2,8 @@
 
 [English](./README.md)
 
+[Youtube](https://youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l&si=6R0whHbZI2V9Ww2p)
+
 ## Overview
 
 这些 Microsoft Developer YouTube 系列视频旨在帮助您快速掌握Bash。
