@@ -1,0 +1,5 @@
+#!/bin/bash
+
+readonly constant="blue"
+
+echo $constant

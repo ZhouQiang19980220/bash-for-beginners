@@ -1,5 +1,5 @@
 #!/bin/bash
 
 # Welcome to your first Bash Script
-
-echo 'Hello World!'
+hello_world='Hello World!'
+echo $hello_world

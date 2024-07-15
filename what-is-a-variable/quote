@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# 单引号字符串
+single_quote_str='Single-quoted string: $HOME `date`'
+
+# 双引号字符串
+double_quote_str="Double-quoted string: $HOME `date`"
+
+# 打印结果
+echo $single_quote_str
+echo $double_quote_str
